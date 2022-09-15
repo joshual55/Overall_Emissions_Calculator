@@ -1,0 +1,10 @@
+% This function was made by Joshua Lamb. This function loads the citations
+% page.
+
+% "On my honor, I, Joshua Lamb, have neither given nor received
+% unathorized aid in doing this assignment."
+
+function Citation_MATLAB_PROGRAM_team11()
+    citationspage
+end
+
